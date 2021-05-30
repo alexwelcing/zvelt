@@ -7,8 +7,8 @@
     <img src="./svelte-icon.png" alt="Svelte" />
   </a>
   <router-link to="/" class="navbar-item nav-home">
-    <span class="brand-first">MY</span>
-    <span class="brand-second">SHOPPING</span>
-    <span class="brand-third">LIST</span>
+    <span class="brand-first">Read</span>
+    <span class="brand-second">Some</span>
+    <span class="brand-third">Research</span>
   </router-link>
 </div>
