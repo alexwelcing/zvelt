@@ -1,9 +1,9 @@
 <div class="content-container">
   <div class="content-title-group not-found">
-    <h2 class="title">Product Wish List</h2>
+    <h2 class="title">Atrispina Research Collection</h2>
     <p>
-      This project was created to help represent a fundamental app written with
-      Svelte. The shopping theme is used throughout the app.
+      This project was based on the Svelte Static Web App demonstrating functions Azure functions for a shopping list.
+      Svelte.
     </p>
     <br />
     <h2 class="title">Resources</h2>
