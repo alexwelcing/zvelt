@@ -77,7 +77,7 @@
           type="text"
           bind:value={editingProduct.description} />
       </div>
-      <div class="field">
+     <!-- <div class="field">
         <label class="label" for="quantity">quantity</label>
         <input
           class="input"
@@ -87,7 +87,7 @@
           min="1"
           max="100"
           bind:value={editingProduct.quantity} />
-      </div>
+      </div> -->
     </div>
   </div>
 
